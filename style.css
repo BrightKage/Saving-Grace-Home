@@ -4,6 +4,10 @@ Body{
   font-family: 'Playfair Display';
   color: #418c4c;
 }
+h1{
+  color: #418c4c;
+  text-decoration:none;
+}
 nav ul {
   list-style-type: none;
   background-color: #e08543;
